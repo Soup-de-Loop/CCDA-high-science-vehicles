@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "sci-fivehicles",
+    "name": "Sci-Fi Vehicle Parts",
+    "authors": [ "Blaze-whatdoyoumeanitsalreadytaken" ],
+    "maintainers": [ "SouP" ],
+    "description": "Experimental state, use at your own risk.",
+    "category": "vehicles",
+    "dependencies": [ "dda" ]
+  }
+]
